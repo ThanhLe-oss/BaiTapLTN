@@ -1,0 +1,2 @@
+Mô tả: Hệ thống được thiết kế để thực hiện Bật/ Tắt đèn Led, Đèn được nối vào
+Arduino ở cổng số 13.
