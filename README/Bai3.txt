@@ -1,0 +1,2 @@
+Mô tả: Đọc nhiệt độ môi trường với cảm biến TMP36, sang LED khi
+nhiệt độ quá 37 độ. Led (pin 10), TMP (pin A0).

@@ -1,0 +1,1 @@
+Mô tả: Nháy Led RGB với 3 điện trở (100 ôm) , nháy led với các màu tại pin 5,6,7.
