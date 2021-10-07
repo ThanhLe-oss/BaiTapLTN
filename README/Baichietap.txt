@@ -1,0 +1,2 @@
+Mô tả: Hệ thống nhúng được thiết kế để cho phép điều khiển độ sáng
+của Led (pin 9) thông qua một biến trở (gắn ở chân A0)

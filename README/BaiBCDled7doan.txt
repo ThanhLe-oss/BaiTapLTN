@@ -1,0 +1,1 @@
+Mô tả: Sử dụng thiết bị định dạng kĩ thuật số BCD kết nối với nguồn và điện trở để mã hóa nhị phân (BCD) sang led 7 đoạn, làm sáng đèn Led 7 đoạn (0,1)

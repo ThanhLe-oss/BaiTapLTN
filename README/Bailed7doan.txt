@@ -1,0 +1,1 @@
+Mô tả: Kết nối các chân điều khiển của led 7 đoạn với nguồn thông qua điện trở 100 ôm để làm sáng đèn (0,8)
