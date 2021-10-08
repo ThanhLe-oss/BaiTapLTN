@@ -1,0 +1,1 @@
+Mô tả: Bài này thực hiện việc sử dụng IC 74HC595 để làm sáng 8 đèn led theo thứ tự.
