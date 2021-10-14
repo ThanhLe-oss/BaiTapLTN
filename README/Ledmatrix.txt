@@ -1,0 +1,3 @@
+Mô tả: Bài này kết nối để giao tiếp một ma trận LED 8 × 8 màu duy nhất với Arduino và hiển thị một vài ký tự trong đó.
+ Ma trận 8 × 8 bao gồm 64 chấm led và các đèn LED này được kết nối với tổng số 16 chân.  Tất cả các chân hàng được 
+kết nối với một trong các chân đầu ra của IC 74HC595N.

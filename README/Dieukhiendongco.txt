@@ -1,0 +1,4 @@
+Mô tả: Bài này được thực hiện để điều khiển tốc độ và hướng quay. Tốc độ của động cơ DC có thể được điều khiển bởi
+thay đổi điện áp đầu vào của nó bằng cách sử dụng PWM(Độ rộng xung Điều chế) . Hướng quay của động cơ DC được 
+kiểm soát bằng cách thay đổi cực của đầu vào của nó sẽ sử dụng H-Bridge , kết nối nguồn điện 9V và nguồn bảng mạch
+làm quay động cơ.
