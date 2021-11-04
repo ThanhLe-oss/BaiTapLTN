@@ -1,0 +1,25 @@
+--cpu Cortex-M4.fp
+"thledtraitim\startup_stm32f401xe.o"
+"thledtraitim\main.o"
+"thledtraitim\stm32f4xx_it.o"
+"thledtraitim\stm32f4xx_hal_msp.o"
+"thledtraitim\stm32f4xx_hal_tim.o"
+"thledtraitim\stm32f4xx_hal_tim_ex.o"
+"thledtraitim\stm32f4xx_hal_rcc.o"
+"thledtraitim\stm32f4xx_hal_rcc_ex.o"
+"thledtraitim\stm32f4xx_hal_flash.o"
+"thledtraitim\stm32f4xx_hal_flash_ex.o"
+"thledtraitim\stm32f4xx_hal_flash_ramfunc.o"
+"thledtraitim\stm32f4xx_hal_gpio.o"
+"thledtraitim\stm32f4xx_hal_dma_ex.o"
+"thledtraitim\stm32f4xx_hal_dma.o"
+"thledtraitim\stm32f4xx_hal_pwr.o"
+"thledtraitim\stm32f4xx_hal_pwr_ex.o"
+"thledtraitim\stm32f4xx_hal_cortex.o"
+"thledtraitim\stm32f4xx_hal.o"
+"thledtraitim\stm32f4xx_hal_exti.o"
+"thledtraitim\system_stm32f4xx.o"
+--strict --scatter "THLedTraiTim\THLedTraiTim.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "THLedTraiTim.map" -o THLedTraiTim\THLedTraiTim.axf

@@ -1,0 +1,2 @@
+Mô tả: Bài này thể hiện việc sử dụng kit STM32F401VE kết nối các chân với các đèn led 
+tạo thành hình trái tim. Các chân kết nối từ PD0 tới PD15 và PE0 đến PE15.
