@@ -1,0 +1,6 @@
+Mô tả: Bài này thực hiện khi ta nhấn một nút nhấnthì phát
+ sinh sự kiện ngắt ngoài gửi vào vi điều khiển, khi đó vi điều 
+khiện triệu gọi một chương trình con phục vụ ngắt để thực 
+hiện bật/tắt led ở PA10. Sau khi tìm hiểu lý thuyết về EXTI,
+chúng ta cùng thực hành 1 project sử dụng ngắt
+ngoài trên KIT STM32F401VETx. 
