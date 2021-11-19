@@ -1,0 +1,25 @@
+--cpu Cortex-M4.fp
+"thstm32icd\startup_stm32f401xe.o"
+"thstm32icd\main.o"
+"thstm32icd\stm32f4xx_it.o"
+"thstm32icd\stm32f4xx_hal_msp.o"
+"thstm32icd\stm32f4xx_hal_tim.o"
+"thstm32icd\stm32f4xx_hal_tim_ex.o"
+"thstm32icd\stm32f4xx_hal_rcc.o"
+"thstm32icd\stm32f4xx_hal_rcc_ex.o"
+"thstm32icd\stm32f4xx_hal_flash.o"
+"thstm32icd\stm32f4xx_hal_flash_ex.o"
+"thstm32icd\stm32f4xx_hal_flash_ramfunc.o"
+"thstm32icd\stm32f4xx_hal_gpio.o"
+"thstm32icd\stm32f4xx_hal_dma_ex.o"
+"thstm32icd\stm32f4xx_hal_dma.o"
+"thstm32icd\stm32f4xx_hal_pwr.o"
+"thstm32icd\stm32f4xx_hal_pwr_ex.o"
+"thstm32icd\stm32f4xx_hal_cortex.o"
+"thstm32icd\stm32f4xx_hal.o"
+"thstm32icd\stm32f4xx_hal_exti.o"
+"thstm32icd\system_stm32f4xx.o"
+--strict --scatter "THSTM32ICD\THSTM32ICD.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "THSTM32ICD.map" -o THSTM32ICD\THSTM32ICD.axf

@@ -1,0 +1,4 @@
+Mô tả: Bài này thực hiện việc sử dụng LCD  thông qua các chân D0-D7 của 
+STM32 để gửi các lệnh mà chứa các kí tự mà chúng ta muốn sẽ được hiển thị 
+trên màn hình LCD.
+
